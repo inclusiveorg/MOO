@@ -4,9 +4,9 @@
 
 # Overview
 
-Until 12 March 2025, iott was known as Modular Organizing Terminology (MOT), and its sole purpose was to host MOT ontology and definitions, which are now in iott's [terms](https://github.com/inclusiveorg/iot/tree/master/terms) folder.  _iott/terms_ reflects the root ontology in [Foundations of Modular Organizing](https://docs.google.com/document/d/1130UcjWI5iEHl8wXuladfpLHYN1JeCXWI-Xy4bu8ZL0/edit?usp=sharing) as well as many more expansive concepts.  iott/terms can be branched and forked to develop stricter and more specific (cosmolocalized) ontologies.
+NOTE: Until 12 March 2025, iott was known as Modular Organizing Terminology (MOT), and its sole purpose was to host MOT ontology and definitions, which are now in iott's [terms](https://github.com/inclusiveorg/iot/tree/master/terms) folder.  _iott/terms_ reflects the root ontology in [Foundations of Modular Organizing](https://docs.google.com/document/d/1130UcjWI5iEHl8wXuladfpLHYN1JeCXWI-Xy4bu8ZL0/edit?usp=sharing) as well as many more expansive concepts.  iott/terms can be branched and forked to develop stricter and more specific (cosmolocalized) ontologies.
 
-The new _topics_ folder will include modular hypertexts on many interrelated subjects. These git files could replace much of Inclusive Organizing's use of Google Workspace.
+The new _topics_ folder is for modular hypertexts on many interrelated subjects. These git files could eventually replace much of Inclusive Organizing's use of Google Workspace.
 
 You can (roughly) think of _iott/terms_ as a dictionary and _iott/topics_ as an encyclopedia, bearing in mind that they're both deeply hypertextual and _topics_ may include branching authors' notes and commentaries.
 
