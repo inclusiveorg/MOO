@@ -1,1 +1,1 @@
-(placeholder)
+(placeholder)  This is a placeholder for the potential development of iott/topics as a repository of modular hypertexts.  These hypertexts could replace [Inclusive Organizing's](https://inclusiveorg.net/) use of Google Workspace, although other alternatives such as Proton Drive (and, eventually, fully decentralized alternatives) are also possible.
