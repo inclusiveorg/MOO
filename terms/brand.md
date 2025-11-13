@@ -10,4 +10,4 @@ One or more of a brand's traits, or a [compound](https://github.com/gcassel/Modu
 
 #### Related Concepts
 
-**[Legal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/law.md) (brand) [names](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/name.md) and trademarks are [identifiers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identifier.md), not identities.**  (Identifiers are sharply distinguished from identity in MOT.)
+**[Legal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/law.md) (brand) [names](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/name.md) and trademarks are [identifiers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identifier.md), not identities.**  (Identifiers are clearly distinguished from identity in this ontology.)
