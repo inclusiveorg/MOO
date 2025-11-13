@@ -7,4 +7,4 @@ Subjects can be [agents](https://github.com/gcassel/Modular-Organization-Termino
 
 #### See Also
 
-**[topic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/topic.md)**: In MOT, *topic* is established and disambiguated from commonplace (mis)uses of the term 'subject'.  In MOT, subjects are only acting elements, *not* topics or focal points/ concepts of research, development or discussion.
+**[topic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/topic.md)**: In this ontology, *topic* is established and disambiguated from commonplace (mis)uses of the term 'subject'.  In this ontology, subjects are only acting elements, *not* topics or focal points/ concepts of research, development or discussion.
