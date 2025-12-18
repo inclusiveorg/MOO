@@ -1,6 +1,6 @@
 #### Definition
 
-A *set* is *any number or grouping of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *[mutually](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mutual.md) possess at least one [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)* which defines that set.
+A *set* is *any group of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *[mutually](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mutual.md) possess one or more [identifying](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)* which defines that set.
 
 #### Notes
 
