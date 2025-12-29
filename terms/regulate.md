@@ -1,6 +1,6 @@
 #### Definition
 
-*To regulate* is to *[manage](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/manage.md) a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) according to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [program](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/program.md)*.
+*To regulate* is to *[manage](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/manage.md) an [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) or [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) according to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [program](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/program.md)*.
 
 #### Specialized Definition
 
