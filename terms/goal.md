@@ -1,6 +1,6 @@
 #### Definition
 
-*A goal* is *an [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md), [event](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/event.md) or [state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md)*.
+*A goal* is *an [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [event](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/event.md) or [state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md)*.
  
 #### Notes  
 
