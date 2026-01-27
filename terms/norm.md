@@ -1,3 +1,6 @@
 #### Definition
 
 *A norm* is a *[principle](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/principle.md), [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) or [practice](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/practice.md) which is [socially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [supported](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+
+#### See Also
+*[guideline](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/guideline.md), [rule](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md)*
