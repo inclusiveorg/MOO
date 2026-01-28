@@ -4,6 +4,13 @@ Scope is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/b
 
 Scope can be [described](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) by *[assigning](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md) [parameters](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/parameter.md)* to *[variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).* 
 
+#### Specialized Definition
+A scope is a [specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) which expressly limits the [mission](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mission.md), [authorizations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authorize.md) and/or [accountabilities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/accountability.md) of an organization, subproject or role.  
+
+In small or early projects, the project scope is often entirely implied by mission, but can be modified by various policies.  Scope is often defined early in the development of subprojects and governed roles by defining any unclear or special authorizations or limitations to their mission.
+
+Subprojects and governed roles often start without scopes, but as they and their parent projects grow, it can become increasingly important to define them and their structure in relation to their parent project. 
+
 #### Notes
 
 Scope may be [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) as the the proportional [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) (or ratio) of the *magnitude of an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* to *the magnitude of a [context](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/context.md)* which it's considered within.  
