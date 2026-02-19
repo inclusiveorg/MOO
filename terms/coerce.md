@@ -1,6 +1,6 @@
 #### Definitions
 
-*To coerce* is *to [govern](https://github.com/inclusiveorg/iott/blob/master/terms/govern) through fear and/or [threats](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/threat.md)*. 
+*To coerce* is *to [govern](https://github.com/inclusiveorg/iott/blob/master/terms/govern) through [explicit](https://github.com/inclusiveorg/iott/blob/master/terms/explicate.md) or [implied](https://github.com/inclusiveorg/iott/blob/master/terms/imply.md) [threats](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/threat.md)*. 
 
 *Coercive* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of any [role](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md) which *would [predictably](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) coerce* in a [clearly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/clarify.md) [definable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
  
