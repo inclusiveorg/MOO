@@ -3,6 +3,7 @@ site:
   title: Documentation
   structure:
     - type: section
+    default: true
       key: documentation
       title: Documentation
       path: documentation
