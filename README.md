@@ -2,6 +2,8 @@
 
 **Modular Organizing Ontology (MOO)** is a repository of git Markdown files for [Inclusive Organizing](https://inclusiveorg.net).
 
+*Foundations* is a MOO branch for key ontological primitives.
+
 # Overview
 
 **Modular Organizing Ontology (MOO)** is a [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [open source](https://www.gnu.org/licenses/gpl-3.0.en.html) English [language](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/language.md) *[ontology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/ontology.md) and [terminology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/terminology.md)* which can be [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) or [adapted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md) for many *[organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organize.md), [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) and [governance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md)* [principles](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/principle.md) and [practices](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/practice.md).
