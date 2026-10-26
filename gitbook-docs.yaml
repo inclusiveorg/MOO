@@ -15,10 +15,3 @@ site:
           content:
             directory: ./docs/en
             language: en
-        - type: space
-          key: docs-fr
-          title: Français
-          path: fr
-          content:
-            directory: ./docs/fr
-            language: fr
