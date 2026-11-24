@@ -4,7 +4,7 @@
  
 #### Notes
 
-Coordination can be solitary or [social](https://github.com/gcassel/MOO/blob/master/terms/social.md). For example, a person can solitarily coordinate the items in a toolbox, or a group of people can coordinate their contributions to a group activity.
+Coordination can be solitary or [social](https://github.com/inclusiveorg/MOO/blob/master/terms/social.md). For example, a person can solitarily coordinate the items in a toolbox, or a group of people can coordinate their contributions to a group activity.
 
 The goal of *coordination* may be to [govern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) specific [risks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md).  For instance, the activities of two or more [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) may be intentionally [transformed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transform.md) to reduce [conflict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/conflict.md) or risky [competition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compete.md).
  
